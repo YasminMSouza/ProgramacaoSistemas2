@@ -1,0 +1,22 @@
+Teclado do professor;50;Logitech
+Mouse;35;Microsoft
+Pão de queijo;100;Borges
+Coca-cola;10;Bar do Zé
+Teclado Multimidia;200;Microsoft
+perfume;450.00;chanel
+esfoliante corporal;45.00;boticario
+rimel;75.00;maybelline
+esmalte;15.99;risque
+blush;40.00;nars
+iluminador;60.00;mac
+batom liquido;49.90;kylie
+perfume;350.00;Dior
+esfoliante facial;55.00;Neutrogena
+serum facial;90.00;L'Oréal
+hidratante corporal;30.00;Nivea
+mascara de cilios;65.00;Bourjois
+gloss labial;35.00;Fenty Beauty
+kit de pinceis;120.00;Real Techniques
+shampoo a seco;45.00;Batiste
+creme para mãos;25.00;Granado
+sabonete liquido;40.00;Phebo
