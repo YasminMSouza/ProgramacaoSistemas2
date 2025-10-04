@@ -1,0 +1,9 @@
+PUT https://jsonplaceholder.typicode.com/todos/26
+Content-Type: application/json
+
+{
+    "userId": 2,
+    "id": 26,
+    "title": "fazer lista de convidados"
+    "completed": false
+}
